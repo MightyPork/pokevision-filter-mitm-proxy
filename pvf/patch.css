@@ -12,7 +12,7 @@
 	}
 	
 	body.home main.home-map .home-map-loading.home-map-loading-mini {
-		top: 30px;
+		top: 15px !important;
 	}
 }
 
