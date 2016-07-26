@@ -1,0 +1,17 @@
+.header-mobile {
+	display: none !important;
+}
+
+@media only screen and (max-width: 991px) {
+	body.home main.home-map {
+		height: 95vh !important;
+	}
+	
+	body.home main.home-sidebar {
+		padding-top: 50px;
+	}
+	
+	body.home main.home-map .home-map-loading.home-map-loading-mini {
+		top: 40px;
+	}
+}
