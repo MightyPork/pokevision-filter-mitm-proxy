@@ -4,7 +4,7 @@
 
 @media only screen and (max-width: 991px) {
 	body.home main.home-map {
-		height: 98vh !important;
+		height: 97vh !important;
 	}
 	
 	body.home main.home-sidebar {
@@ -12,7 +12,7 @@
 	}
 	
 	body.home main.home-map .home-map-loading.home-map-loading-mini {
-		top: 40px;
+		top: 30px;
 	}
 }
 
