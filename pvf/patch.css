@@ -4,7 +4,7 @@
 
 @media only screen and (max-width: 991px) {
 	body.home main.home-map {
-		height: 95vh !important;
+		height: 98vh !important;
 	}
 	
 	body.home main.home-sidebar {
@@ -14,4 +14,8 @@
 	body.home main.home-map .home-map-loading.home-map-loading-mini {
 		top: 40px;
 	}
+}
+
+div.btn-group.bootstrap-select.show-tick.form-control {
+	display: none !important;
 }
