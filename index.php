@@ -69,4 +69,4 @@ $data = str_replace('<meta name="twitter:card" content="summary">', $inject, $da
 
 echo $data;
 
-echo "<!-- Page served by @MightyPork's PokéVision MiTM proxy -->";
+echo "<!-- Page served by @MightyPork's PokéVision Filter MiTM proxy -->";
